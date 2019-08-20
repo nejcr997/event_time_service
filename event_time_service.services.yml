@@ -1,0 +1,3 @@
+services:
+  event_time_service.event_time:
+    class: Drupal\event_time_service\Service\EventTimeService

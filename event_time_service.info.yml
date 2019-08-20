@@ -1,0 +1,4 @@
+name: Event Time Service
+description: Service that returns a value, which is used to display how many days are laft until the event starts in Event time block.
+type: module
+core: 8.x
